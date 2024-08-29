@@ -3,6 +3,6 @@ public class nonprimitive {
         int number = 10;
         Integer number2 = number;
 
-        double tipeDataDouberl = number
+        double tipeDataDoubel = number2.doubleValue();
     }
 }
